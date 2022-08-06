@@ -2,7 +2,7 @@
 
 ## Table of contents
 
-[Introduction] {/guides/content/Introduction}
+[Introduction] (/guides/content/Introduction)
 [Technologies] (#Technologies)
 [Features] (#Features)
 [To Do] (#To-Do)
