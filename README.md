@@ -1,13 +1,4 @@
-# Data-Science_Python_Project1
-
-## Table of contents
-
-[Introduction] (/guides/content/Introduction)
-[Technologies] (#Technologies)
-[Features] (#Features)
-[To Do] (#To-Do)
-[Project Status] (#Project-Status)
-[Inspiration] (#Inspiration)
+# Data-Science_Python_Project
 
 ## Introduction
 
